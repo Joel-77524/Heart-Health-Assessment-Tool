@@ -50,10 +50,10 @@ The Heart Health Assessment Tool is developed to assist healthcare professionals
 ## Example Predictions  
 
 ### Low Risk Result  
-![Low Risk](Screenshots/Low risk.PNG)  
+![Low Risk](Screenshots/"Low risk.PNG")  
 
 ### High Risk Result  
-![High Risk](Screenshots/High Risk.PNG)  
+![High Risk](Screenshots/"High Risk.PNG")  
 
 ---
 
